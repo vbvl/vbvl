@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est root
 
-🎓 Étudiant en cybersécurité / informatique  
+🎓 Étudiant en informatique autoditacte
 💻 Développement logiciel & low-level programming  
 
 ## ⚙️ Languages
@@ -8,13 +8,15 @@
 - C++
 - Python
 - JavaScript
+- Html
+- Lua (en vif)
 
 ## 🐧 Tools
-- Linux
+- Arch 
 - Git
 - Docker
 
 ## 🔐 Interests
-- Cybersecurity
+- Dev Web
 - Reverse engineering
 - Systems programming
